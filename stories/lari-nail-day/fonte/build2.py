@@ -1,7 +1,7 @@
 import sys
 S=sys.argv[1]
 star=lambda x,y,s:f'<svg class="star" style="left:{x}px;top:{y}px;width:{s}px;height:{s}px" viewBox="0 0 100 100"><use href="#st" fill="#fff"/></svg>'
-E={'💗':'1f497','✨':'2728','⭐':'2b50','🌟':'1f31f','💖':'1f496','🥹':'1f979','🎀':'1f380','🌸':'1f338','☕':'2615','💅':'1f485','👍':'1f44d','💫':'1f4ab','🤍':'1f90d','🥰':'1f970','💕':'1f495','🙌':'1f64c'}
+E={'💗':'1f497','✨':'2728','⭐':'2b50','🌟':'1f31f','💖':'1f496','🥹':'1f979','🎀':'1f380','🌸':'1f338','☕':'2615','💅':'1f485','👍':'1f44d','💫':'1f4ab','🤍':'1f90d','🥰':'1f970','💕':'1f495','🙌':'1f64c','🛠️':'1f6e0','⏳':'23f3'}
 def t(s):
     for k,v in E.items(): s=s.replace(k,f'<img class="e" src="emoji/{v}.png">')
     return s
@@ -14,14 +14,10 @@ stories=[
  ('05-poa-aprovado','top',t('''<div class="blk" style="top:240px"><div class="script">1 mês depois</div><div class="disp m">nota 10 👍</div></div>
   <div class="blk" style="top:1420px"><div class="tag">foi assim que cheguei pro <u>retorno</u></div>
   <div class="imp">AINDA LINDAS 🥹✨</div></div>''')+star(80,300,48)+em('🌟',930,240,74,10)+em('💗',70,560,70,-12)),
- ('02-preparo','bot',t('''<div class="blk" style="top:1190px"><div class="script">paciência</div><div class="disp m">é o segredo</div>
-  <div class="tag">cada cutícula no <u>tempinho dela</u></div>
-  <div class="imp">SEM PRESSA, SEM DOR 🤍</div></div>''')+star(120,1200,52)+em('✨',900,1150,80)+em('💗',880,1690,66,14)),
- ('03-esmaltacao','bot',t('''<div class="blk" style="top:1170px"><div class="script">atenção</div><div class="disp m">aos detalhes</div>
-  <div class="tag">ela escuta, explica e <u>capricha</u></div>
-  <div class="imp">ATENDIMENTO DE AMIGA 💗</div></div>''')+star(950,1240,56)+em('⭐',80,1150,70,-8)+em('🎀',90,1680,70,-6)),
- ('04-resultado-jelly','top',t('''<div class="blk" style="top:270px"><div class="script">arrasou,</div><div class="disp">Lari!</div>
-  <div class="tag">rosinha <u>glow</u> com cara de vidro</div></div>
+ ('02-preparo','bot',t('''<div class="blk" style="top:1540px"><div class="proc">em processo... 🛠️💅</div></div>''')+star(160,1480,44)+em('✨',880,1470,64)),
+ ('03-esmaltacao','bot',t('''<div class="blk" style="top:1540px"><div class="proc">em processo... ⏳💅</div></div>''')+star(900,1480,48)+em('💗',140,1470,60,-10)),
+ ('04-resultado-jelly','top',t('''<div class="blk" style="top:235px"><div class="script">arrasou,</div><div class="disp">Lari!</div>
+  <div class="tag">as unhas ficaram <u>perfeitas</u><br>nesse rosinha glow 💗</div></div>
   <div class="chip" style="left:70px;top:1470px;transform:rotate(-3deg)">amei demais 🥹💗</div>
   <div class="chip" style="right:70px;top:1600px;transform:rotate(2deg)">socorro, que lindo ✨</div>''')+star(140,400,40)+em('💖',850,280,96,12)+em('✨',470,1720,64)+em('🌸',880,1150,74,10)+star(900,1420,44)),
 ]

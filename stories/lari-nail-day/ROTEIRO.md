@@ -7,9 +7,9 @@ O tom é natural, de cliente que amou o atendimento, sem chamada para agendament
 |---|---|---|---|---|---|
 | 1 | Café e mimo na mesa | *começou o* | **NAIL DAY** | dia de **retorno** com cafezinho ☕ | 💗 ✨ 🌸 |
 | 2 | Unhas de poá, 1 mês depois | *1 mês depois* | **NOTA 10 👍** | foi assim que cheguei pro **retorno** | AINDA LINDAS 🥹✨ |
-| 3 | Preparo da cutícula | *paciência* | **É O SEGREDO** | cada cutícula no **tempinho dela** | SEM PRESSA, SEM DOR 🤍 |
-| 4 | Esmaltação | *atenção* | **AOS DETALHES** | ela escuta, explica e **capricha** | ATENDIMENTO DE AMIGA 💗 |
-| 5 | Resultado rosa jelly | *arrasou,* | **LARI!** | rosinha **glow** com cara de vidro | balões "amei demais 🥹💗" e "socorro, que lindo ✨" |
+| 3 | Preparo da cutícula | (sem texto) | | | balão "em processo... 🛠️💅" |
+| 4 | Esmaltação | (sem texto) | | | balão "em processo... ⏳💅" |
+| 5 | Resultado rosa jelly | *arrasou,* | **LARI!** | as unhas ficaram **perfeitas** nesse rosinha glow 💗 | balões "amei demais 🥹💗" e "socorro, que lindo ✨" |
 
 ## Dicas na hora de postar
 - Marque o @ da Lari com o sticker de menção no story 4 ou no 5.
